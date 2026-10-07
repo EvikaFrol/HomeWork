@@ -1,0 +1,14 @@
+:root {
+	/* font-family */
+	--font-family: Inter Regular, sans-serif;
+	--second-family: Readex Pro Regular, sans-serif;
+
+	/* colors */
+	--main-color: #000;
+	--bg-color: #fff;
+	--accent-color: #2326dd;
+	--shadow-color: #8f8e8e;
+
+	/* transition */
+	--transition-time: 0.2s;
+}
